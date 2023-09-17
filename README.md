@@ -1,9 +1,8 @@
 # 基本信息 Basic Information
 
-[Pythoner](https://github.com/8dspaces)，also like Kotlin | Typescript/javascript | Go 
+[Pythoner](https://github.com/8dspaces)，also like Kotlin | Typescript | Go 
  
-
-* **GitHub**: [8dspaces](https://github.com/8dspaces)
+-----
 
 
 # 技能概述 Skills
