@@ -1,10 +1,7 @@
 # 基本信息 Basic Information
 
-[Pythoner](https://github.com/8dspaces)，Kotlin | Typescript/javascript | Go 
+[Pythoner](https://github.com/8dspaces)，also like Kotlin | Typescript/javascript | Go 
  
-Former Tencent Senior Android Developer. Now work at Kanyun. Inc. [Google Developer Expert (GDE)](https://g.dev/bennyhuo) in Kotlin.
-
-# 个人频道 Channels
 
 * **GitHub**: [8dspaces](https://github.com/8dspaces)
 
